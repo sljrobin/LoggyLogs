@@ -104,7 +104,7 @@ Once LoggyLogs is set, it can parse HTTP requests, and eventually detect suspici
 python loggylogs.py --<test>
 ```
 
-An example of output with the `--bodysize` test:
+**Example of output with the `--bodysize` test:**
 
 ```
 python loggylogs.py --bodysize
@@ -112,7 +112,7 @@ python loggylogs.py --bodysize
 
 ![](./docs/example-body-size.png)
 
-An example of output with the `--host` test:
+**Example of output with the `--host` test:**
 
 ```
 python loggylogs.py --host
@@ -120,7 +120,7 @@ python loggylogs.py --host
 
 ![](./docs/example-invalid-host.png)
 
-An example of output with the `--statuscode` and `--ip` tests:
+**Example of output with the `--statuscode` and `--ip` tests:**
 
 ```
 python loggylogs.py --statuscode
